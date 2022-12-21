@@ -8359,7 +8359,6 @@ fieldset:disabled .btn {
 #web-tools {
   align-items: center;
   border-radius: 400px;
-  width: 25%;
 }
 
 .p-0 {
@@ -12505,8 +12504,6 @@ html {
 .contact-me {
   text-align: center;
 }
-
-//nieve
 
 @-moz-keyframes nieve {
   from {
