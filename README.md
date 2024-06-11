@@ -22,7 +22,7 @@ The main objectives of LitoHDD's Portfolio are:
 
 This project is under the MIT License. For more information, please refer to the LICENSE file.
 
-## 🚀 Let's Get Started!
+## 🚀 Let's Get Started
 
 To start exploring LitoHDD's Portfolio, visit our GitHub repository and follow the instructions in the README.md file. You can also join our Discord server for discussions, support, and collaboration opportunities.
 
